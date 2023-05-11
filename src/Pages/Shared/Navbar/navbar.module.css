@@ -1,0 +1,16 @@
+/* @media only screen and (max-width: 400px) {
+    .marginRight {
+      margin-right:65px ;
+    }
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .marginRight {
+      margin-right:150px ;
+    }
+  } */
+
+  .zindex {
+    z-index: 1000;
+  }
